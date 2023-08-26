@@ -6,7 +6,7 @@ const searchInput = document.querySelector("#searchInput");
 const searchButton = document.querySelector("#searchButton");
 const suggestionsContainer = document.querySelector(".suggestions");
 
-let limit = 8;
+let limit = 11;
 let offset = 1;
 
 // Fetch the list of Pokemon names from the API
